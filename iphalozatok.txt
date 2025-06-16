@@ -1,0 +1,15 @@
+Tanuló neve: (írja ide a saját nevét!)
+
+BP LAN
+hálózati cím:
+alhálózati maszk:
+első állomáscím:
+utolsó állomáscím:
+szórási cím:
+
+GYOR LAN
+hálózati cím:
+alhálózati maszk:
+első állomáscím:
+utolsó állomáscím:
+szórási cím:
